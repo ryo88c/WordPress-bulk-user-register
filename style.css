@@ -1,0 +1,12 @@
+@CHARSET "UTF-8";
+
+ul.bur_columns{
+	overflow:hidden;
+}
+ul.bur_columns li{
+	margin-right:4px;
+	padding:2px 4px;
+	float:left;
+	background-color:#f0f0f0;
+	-moz-border-radius:6px;
+}
